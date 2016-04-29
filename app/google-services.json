@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88924335903",
+    "project_id": "default-demo-app-d4429"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88924335903:android:e7920d2c75b4d147",
+        "android_client_info": {
+          "package_name": "com.stuzo.zheka.weathertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88924335903-kmoj1e472hd333efsi6rvrm8c1q3ahtu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stuzo.zheka.weathertest",
+            "certificate_hash": "6EF580F3A211E6047E4DEFA4AADE299DB74DCD5D"
+          }
+        },
+        {
+          "client_id": "88924335903-p6hdte35rsojt7elbi3qfr0jgg9q83pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjkFFOgoOmA6ablBksZ1F_VcVoNJri9m0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

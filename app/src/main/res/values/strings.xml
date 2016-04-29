@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather (Test)</string>
+    <string name="title_activity_maps">Weather Map</string>
+    <string name="error.internet.connetcion">No internet connection</string>
+</resources>
